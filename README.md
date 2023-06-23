@@ -13,8 +13,10 @@ The project is done with a dataset made available by Kaggle for free. It relates
 # Improvement
 
 Ways to improve the model:
-•	More information from the company can help put the values into context and therefore increase the performance of the model.
-•	A case-by-case analysis will drive to better results. So, in a real-life problem-solving situation you will find constraints that will lead to considerations for a case-by-case analysis.
+
+1 - More information from the company can help put the values into context and therefore increase the performance of the model.
+
+2 - A case-by-case analysis will drive to better results. So, in a real-life problem-solving situation you will find constraints that will lead to considerations for a case-by-case analysis.
 
 # Files structure
 1 - data directory: contains .csv files.
